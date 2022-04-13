@@ -1,0 +1,11 @@
+.footer {
+   background-color: lightblue;
+    opacity: 0.83;
+width: 100%;
+color: black;
+height: 80px;
+left: 0;
+bottom: 0;
+position: fixed;
+
+}

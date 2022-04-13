@@ -1,0 +1,19 @@
+#div1 {
+    position: relative;
+width: 200px;
+height: 200px;
+border: 1px solid black;
+margin: 100px;
+padding: 10px;
+
+}
+
+#div2 {
+  position: absolute;
+padding: 50px;
+border: 1px solid black ;
+background-color: red;
+/* transform: translate(100px,200px); */
+/* transform: rotate(20deg); */
+transform: scale(2);
+}

@@ -1,0 +1,18 @@
+.box {
+    background-color:cornflowerblue;
+    height: 200px;
+    width: 200px;
+    color: cornsilk;
+    border: solid black 3px;
+    margin: 50px;
+    padding: 20px;
+}
+
+.right {
+    margin-left: 400px;
+
+}
+
+.left {
+    margin-left: 50px;
+}

@@ -1,0 +1,19 @@
+h1 {
+    border: 2px solid red;
+    color: white;
+    padding: 10px;
+    background-color: #0984e3;
+}
+
+p {
+    width: 600px;
+    height: 400px;
+    border: 2px dotted #2d3436;
+    background-color: #fdcb6e;
+    margin-top: 50px;
+}
+
+a {
+    border-bottom: 3px dashed #6c5ce7;
+    background-color: #ff7675;
+}

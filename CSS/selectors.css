@@ -1,0 +1,21 @@
+/* p ~ ul {
+    background-color: chocolate;
+} */
+
+/* p:first-child {
+    background-color: yellow;
+} */
+
+/* p:last child */
+
+/* p:nth-child(2) {
+    background-color: yellow;
+} */
+
+p:nth-of-type(odd) {
+    background-color: red;
+}
+
+p:nth-of-type(even) {
+    background-color: teal;
+}
