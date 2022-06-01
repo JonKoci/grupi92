@@ -20,7 +20,7 @@ h2 {
 
 button {
     background-color: var(--white);
-    color: var(--white);
+    color: black;
     border: 1px solid var(blue);
     padding: 15px;
 }
